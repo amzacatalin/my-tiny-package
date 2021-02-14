@@ -1,2 +1,2 @@
 # my-tiny-package
-Test npm package
+Removes all spaces from a string.
